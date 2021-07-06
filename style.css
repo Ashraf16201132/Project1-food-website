@@ -1,0 +1,144 @@
+.navBar ul li {
+  list-style-type: none;
+  display: inline-block;
+  text-align: center;
+  font-weight: 700;
+  font-size: 120%;
+}
+.navBar ul li a {
+  text-decoration: none;
+  color: #cf0000;
+  padding: 30px;
+  padding-right: 40px;
+}
+.navBar ul li a:hover {
+  background-color: #499693;
+  color: black;
+}
+.background-nav {
+  background-image: url(images/navbg.png);
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: 100%;
+  margin: -1%;
+  padding-bottom: 14px;
+  padding-top: 1%;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 35px;
+  text-align: inline;
+}
+h3 {
+  color: #cd113b;
+}
+p {
+  text-align: justify;
+  font-size: 25px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 6%;
+}
+#top {
+  padding: 20px 30px;
+  font-size: 17px;
+}
+
+.color-change {
+  color: rgb(211, 22, 22);
+}
+#margin-line {
+  padding-left: 3%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(241, 99, 42), rgb(243, 52, 18));
+  border-radius: 26px;
+  padding: 13px 40px;
+  font-weight: 800;
+  color: white;
+  border: 1px solid rgb(240, 200, 200);
+}
+.top-banner {
+  background-image: url(images/img1.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 100%;
+  padding-bottom: 60px;
+  margin: -1%;
+  margin-top: 1%;
+}
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 80%;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 50px;
+
+  padding-right: 9%;
+}
+.second-banner {
+  background-image: url(images/7.png);
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: 100%;
+  padding-top: 5%;
+  margin-right: -1%;
+}
+.center-size {
+  font-size: 30px;
+  color: rgb(169, 35, 226);
+}
+#top-size {
+  font-size: 25px;
+  margin-bottom: 2%;
+}
+.container {
+  text-align: justify;
+  content: space-evenly;
+  padding-left: 9%;
+}
+.food-item {
+  margin: 0 auto;
+  padding: 40px;
+  padding-right: 1%;
+  margin-right: 23%;
+  height: auto;
+  border-radius: 7%;
+  margin: 1.5%;
+  padding-left: 1%;
+  padding-top: 1%;
+  box-shadow: 0px 0px 10px gray;
+}
+.food-item img {
+  width: 100%;
+}
+#box-color {
+  color: #514ea3;
+}
+.submit {
+  color: rgb(240, 0, 0);
+  background-color: #c4c5e9;
+  padding: 8px 15px;
+  border-radius: 10px;
+
+  font-weight: 700;
+}
+.footer-part {
+  background-image: url(images/dark.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 20px;
+  text-align: center;
+}
+#color-footer {
+  color: orangered;
+  font-size: 40px;
+}
+#color-ft {
+  color: rgb(9, 255, 0);
+}
